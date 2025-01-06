@@ -1,4 +1,5 @@
 @import './create-password.css';
+@import './email.css';
 
 :root{
     --very-light-pink: #C7C7C7;
