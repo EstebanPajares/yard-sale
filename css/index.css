@@ -1,3 +1,5 @@
+@import './create-password.css';
+
 :root{
     --very-light-pink: #C7C7C7;
     --text-input-field: #F7F7F7;
@@ -5,6 +7,9 @@
     --white: #FFFFFF;
     --Black: #000000;
     --Dark: #232830;
+    --sm : 14px;
+    --md : 16px;
+    --lg : 18px;
 
 }
 
@@ -13,5 +18,4 @@ body {
     font-optical-sizing:auto;
     font-weight:weight;
     font-style:normal;
-
 }
