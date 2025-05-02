@@ -3,6 +3,7 @@
 @import './login.css';
 @import './create-account.css';
 @import './edit-account.css';
+@import './search-products.css';
 
 :root{
     --very-light-pink: #C7C7C7;
