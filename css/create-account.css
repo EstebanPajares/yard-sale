@@ -27,7 +27,7 @@ body {
 
 .title {
     font-size: var(--lg);
-    margin-block-end: 36px;
+    margin-block-end: 34px;
     text-align: start;
 }
 
@@ -61,7 +61,7 @@ body {
     height: 30px;
     font-size: var(--md);
     padding: 6px;
-    margin-block-end: 12px;
+    margin-block-end: 22px;
 }
 
 .input-email, .input-name, .input-password{
